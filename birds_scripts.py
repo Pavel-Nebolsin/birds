@@ -118,8 +118,8 @@ def customcards_on_open(hashMap, _files=None, _data=None):
     for i in range(0, 5):
         c = {
             "key": str(i),
-            "string1": "Материнская плата ASUS ROG MAXIMUS Z690 APEX",
-            "string2": "Гнездо процессора LGA 1700",
+            "string1": "Птыц",
+            "string2": "дикий",
         }
         j["customcards"]["cardsdata"].append(c)
 
